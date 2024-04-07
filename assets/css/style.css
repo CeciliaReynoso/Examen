@@ -16,7 +16,7 @@ body {
   }*/
 
   #Hero-Section {
-    margin-top: 0;
+    font-size: medium;
     height: 45rem;
     background-image: url("../img/big.PNG");
     background-repeat: no-repeat;
@@ -25,16 +25,16 @@ body {
   }
   
 .section.header {
-    width: 75%;
+    width: 100%;
 }
   
-/*.section.header .main-text {
+.section.header .main-text {
     text-align: left;
-  }*/
+  }
   
-/*.section.header h5 {
+.section.header h5 {
     font-weight: 100;
-  }*/
+  }
   
   .object-fit {
     min-height: 5vh;
