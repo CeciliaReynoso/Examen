@@ -3,19 +3,7 @@ body {
   }
  
  
-  .bg-green {
-    background-color: #28a745;
-  }
-  
-  .green {
-    color: #28a745;
-  }  
-  
-  /*h2, h3, h4, h5, p .gris {
-    color: #707070;
-  }*/
-
-  #Hero-Section {
+   #Hero-Section {
     font-size: medium;
     height: 45rem;
     background-image: url("../img/big.PNG");
@@ -29,7 +17,7 @@ body {
 }
   
 .section.header .main-text {
-    text-align: left;
+    text-align: center;
   }
   
 .section.header h5 {
